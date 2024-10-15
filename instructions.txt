@@ -1,0 +1,8 @@
+To push changes
+
+git add .
+git commit -m "here is my message"
+git push
+
+sometimes you might have a merge conflict
+
